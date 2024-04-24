@@ -17,3 +17,7 @@ We use PostgreSQL for data analysis, employing SQL queries to extract insights f
 ## Repository Structure
 - notebook.ipyn: Notebook containing the PostgreSQL queries used for data analysis and commentary.
 - README.md: You are here! Provides an overview of the project.
+
+
+DataCamp Workplace project link:
+https://github.com/NonsoOmoko/Project-Analyzing-Unicorn-Companies/blob/648484d8b9a2c63075156a0a18d7b9c164671cb2/DataCamp%20Project%20Workplace%20Link
